@@ -4,9 +4,6 @@ authors:
   - name: Colin Jaworowski
     affiliations:
       - NCSSM
-  - name: Gray Averett
-    affiliations:
-      - NCSSM
 date: 2024-01-23
 # subtitle: 
 abbreviations: 
@@ -26,6 +23,5 @@ Nuclear activity began rising directly after the detonation of the first bomb, T
 Here is the stacked bar chart of nuclear bombs detonated per year and country:
 
 ![](#detonations) 
-
 ## References
 

@@ -31,7 +31,7 @@ Here is the data in table format
 
 ![](#table)
 
-The global landscape of nuclear weapons is a cause for concern, with nine countries possessing approximately 13,000 warheads as of early 2022. This worrisome reality is discussed in a recent paper that explores the potential consequences of nuclear bomb detonations. The risks associated with nuclear proliferation, terrorism, and geopolitical tensions, exemplified by events like Russia's invasion of Ukraine, highlight the urgency of addressing the dangers posed by these weapons. For detailed insights, see this **([paper](10.1057/s41271-023-00420-x))** as it offers a comprehensive analysis of the current state of nuclear weapons possession and the associated risks.
+The global landscape of nuclear weapons is a cause for concern, with nine countries possessing approximately 13,000 warheads as of early 2022. This worrisome reality is discussed in a recent paper that explores the potential consequences of nuclear bomb detonations. The risks associated with nuclear proliferation, terrorism, and geopolitical tensions, exemplified by events like Russia's invasion of Ukraine, highlight the urgency of addressing the dangers posed by these weapons. For detailed insights, the **([original paper](10.1057/s41271-023-00420-x))**  offers a comprehensive analysis of the current state of nuclear weapons possession and the associated risks.
 
 
 

@@ -29,7 +29,7 @@ Here is the stacked bar chart of nuclear bombs detonated per year and country:
 
 Here is the data in table format
 
-![](#table)
+![]{#Table}
 
 
 
